@@ -1,4 +1,4 @@
-How is the web different from them internet?
-How the internet works:
-What is a directory and what is its relationship to files?
-Why is using VCS benificial?
+How is the web different from them internet?  The web differs from the internet in that it is the information that you acsses through the Internet.  In other words the Internet is what allows you to search the web, it is the infrastructure, while the web is your end goal, what you get from the Internet.
+How the internet works:  The Internet works as a global network of computers and information and it gives everything unique addresses to make that information searchable and obtainable.  The Internet is like a road you can drive on and use to find and get to where you want to go. 
+What is a directory and what is its relationship to files? The relationship between adirectory and files is that the directory is a toll that is used to organize files and find a specific file when you are looking to accses it.
+Why is using VCS beneficial?  VCS mainly is beneficial in too ways it allows for backups to exist greatly lessoning the risk of loosing what you are working on and it allows for greater efficency and agillity while you are working.
