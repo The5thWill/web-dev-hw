@@ -13,7 +13,7 @@ What is a cookie?
 Cookies are a method by which websites can save information about and identify users.
 For example cookies can save things like your preferred language so that a website can use that language whenever you are on it.
 
-List the the three basic parts of a URL.
+List the three basic parts of a URL.
 
 1. The protocol
 2. The domain name
