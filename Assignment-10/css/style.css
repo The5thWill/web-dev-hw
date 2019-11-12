@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico&display=swap');
+
+body {
+  background-color: rgb(152, 251, 152)
+}
+
+#title {
+  text-align: center;
+  margin-bottom: 5em
+}
+
+#title h1 {
+  font-size: 3em;
+  letter-spacing: 3.2px;
+  color: rgb(220, 20, 60);
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0em;
+}
+#title h1::first-letter {
+  font-size: 2.6em;
+  vertical-align: middle;
+  font-family: 'Pacifico', cursive;
+
+}
+#title h2 {
+  font-size: 1.8em;
+  color: rgb(0, 100, 0);
+  margin-top: -1.8em;
+}
+
+#title h3 {
+  font-family: 'Indie Flower', cursive;
+}
+
+#Link {
+  text-align: center;
+  font-size: 2.4em
+}
+
+a:hover {
+  color: rgb(255, 250, 240)
+}
+
+.content {
+font-family: 'Indie Flower', cursive;
+font-size: 1.4em
+}
+
+.content::first-letter {
+  font-size: 2.4em;
+  letter-spacing: 2px;
+}
