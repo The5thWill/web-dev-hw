@@ -39,9 +39,3 @@ body {
   border: white
   display: block;
 }
-#logo a {
-left: 1000px
-}
-#logo img:hover {
-  background-color: #FFF;
-}
