@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Libre+Baskerville&display=swap');
+
+p {
+  font-family: 'Dancing Script', cursive;
+}
+
+h1 h2 h3{
+  font-family: 'Libre Baskerville', serif;
+}
+
+body {
+  background-color:;
+  margin: 0;
+}
+.topbar {
+  background-color: rgb(47, 79, 79);
+  width: 100%;
+  padding: 50px;
+  height: 20px;
+  position: fixed;
+  top: 0;
+}
+.content {
+  top: 10%;
+  padding: 200px;
+  color: rgb(240, 255, 255)
+}
+
+#media {
+  background-color: inherit;
+  width: inherit;
+  position: fixed;
+  top: 5px;
+  left: 1080px;
+}
+#media img {
+  width: 40px;
+  height: auto;
+  float: top;
+}
+#media h2 {
+  color: rgb(240, 255, 255);
+}
+#About p{
+  text-align: center;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+#About h1{
+  text-align: left;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 150px;
+}
+
+#contact h3{
+  margin-top: 100px;
+}
+#Events {
+  margin-top: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+#image-1 {
+  margin-top: 100px;
+
+}
