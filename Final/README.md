@@ -8,4 +8,6 @@ For the most part there was not too much I learned in the design aspect of thing
 
 Free Response: Summarize your work cycle for this assignment
 
-For this assignment I went back to past projects and learning materials and worked along side those.  Other than that I tried to do things from memory and I used photoshop to match and pick colors (using screenshots and images with the color I wanted along with the eye dropper tool to look up the RGB values). 
+For this assignment I went back to past projects and learning materials and worked along side those.  Other than that I tried to do things from memory and I used photoshop to match and pick colors (using screenshots and images with the color I wanted along with the eye dropper tool to look up the RGB values).
+
+Extra Note: For some reason when accessed through GitHub the twitter and Instagram images won't show up even though they do when I go to the sight through my files and I don't know why that is but they are the same as the other two and they work fine. 
